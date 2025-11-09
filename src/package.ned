@@ -1,0 +1,3 @@
+package snailmail;
+
+@license(LGPL);
